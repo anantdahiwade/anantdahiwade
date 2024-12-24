@@ -16,7 +16,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Projects**:
   - **CargoVault/Warehouse**: Designed and tested APIs for seamless integration.
   - **Wallet Bridge**: Developing APIs for efficient payment processing and wallet management.
-  - **Payment Wallet**: Collaborated with an 11-member team to build modules like User Authentication, Transaction Management, and Reporting.
   - **ConnectBot**: Enhanced application performance by resolving bottlenecks and optimizing response times.
 
 ## Tech Stack
