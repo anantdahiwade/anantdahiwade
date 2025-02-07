@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Anant+Dahiwade🖐️;Passionate+Software+Developer💻;Aspiring+Problem+Solver📊;Learning+and+Growing+Every+Day;Empowering+Through+Code;Excited+to+Connect!"/>
 
-Welcome to my GitHub profile! Here's a bit about me:
+Welcome to my GitHub profile! Here's a bit about me :
 
 ## About Me
 
