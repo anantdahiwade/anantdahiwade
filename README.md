@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a bit about me :
 
 ## Professional Highlights
 
-- **Current Role**: Working at SDK Infotech Pvt Ltd since 2022.
+- **Current Role**: Working at Sigma software solutions pvt ltd since 2022.
 - **Projects**:
   - **CargoVault/Warehouse**: Designed and tested APIs for seamless integration.
   - **Wallet Bridge**: Developing APIs for efficient payment processing and wallet management.
