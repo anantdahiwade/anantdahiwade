@@ -14,10 +14,16 @@ Welcome to my GitHub profile! Here's a bit about me :
 
 - **Current Role**: Working at Sigma software solutions pvt ltd since 2022.
 - **Projects**:
-  - **CargoVault/Warehouse**: Designed and tested APIs for seamless integration.
-  - **Wallet Bridge**: Developing APIs for efficient payment processing and wallet management.
-  - **ConnectBot**: Enhanced application performance by resolving bottlenecks and optimizing response times.
-
+  - **Loan Management System (FinTech / Banking):** A comprehensive platform to manage the entire loan lifecycle including 
+applications, approvals, disbursements, EMI tracking, and repayments. Integrated customer KYC validation, credit scoring, and
+third-party APIs for credit checks and payment gateway support. Enhanced performance with secure REST APIs, testing, and bug 
+fixes.
+-**Trackware (Logistics & Supply Chain) :** A logistics management solution for real-time cargo tracking, shipment scheduling, 
+and warehouse operations. Enabled seamless shipment updates through REST APIs, improved backend workflows using Spring 
+Boot and PostgreSQL, and supported agile delivery through active involvement in sprint planning, testing, and defect resolution.
+-**ClientTrack CRM (Customer Relationship Management):** A backend-driven CRM system for customer data management and 
+workflow automation. Designed APIs for lead management, authentication workflows. Improved performance with optimized 
+PostgreSQL queries, Hibernate integration, and secure external service integrations
 ## Tech Stack
 
 - **Languages**: Java, SQL, JavaScript
@@ -41,7 +47,7 @@ Welcome to my GitHub profile! Here's a bit about me :
 ## Let's Connect!
 
 - **LinkedIn**: [Anant Dahiwade](https://linkedin.com/in/anantdahiwade)  
-- **Email**: [dahiwadeanants@gmail.com](mailto:dahiwadeanants@gmail.com)
+- **Email**: [dahiwadeanants@gmail.com](mailto:anantdahiwade1234@gmail.com)
 
 Feel free to check out my repositories to explore my work. I'm always open to collaboration and learning opportunities. Together, let's build something great! 🚀
 
