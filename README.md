@@ -6,13 +6,10 @@ Welcome to my GitHub profile! Here's a bit about me :
 
 ## About Me :
 
-- ☕ **Software Developer** based in Pune, Maharashtra, India, with **2+ years of hands-on experience** in building robust backend systems and high-performance applications.
+- ☕ **Software Developer** based in Pune, Maharashtra, India, -Building robust backend systems and high-performance applications.
 - Specialized in **Java, Spring Boot, Hibernate**, and **Microservices**, with experience in **Angular** for front-end development.
 - Passionate about solving real-world problems and creating impactful solutions.
 
-## Professional Highlights
-
-- **Current Role**: Working at Sigma software solutions pvt ltd since 2022.
 - **Projects**:
   - **Loan Management System (FinTech / Banking):** A comprehensive platform to manage the entire loan lifecycle including 
 applications, approvals, disbursements, EMI tracking, and repayments. Integrated customer KYC validation, credit scoring, and
