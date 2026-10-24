@@ -44,7 +44,7 @@ PostgreSQL queries, Hibernate integration, and secure external service integrati
 ## Let's Connect!
 
 - **LinkedIn**: [Anant Dahiwade](https://linkedin.com/in/anantdahiwade)  
-- **Email**: [dahiwadeanants@gmail.com](mailto:anantdahiwade1234@gmail.com)
+- **Email**: (mailto:anantdahiwade1234@gmail.com)
 
 Feel free to check out my repositories to explore my work. I'm always open to collaboration and learning opportunities. Together, let's build something great! 🚀
 
